@@ -115,7 +115,7 @@ retail-sales-tableau-analysis1/
 ## How to use this project
 
 1. Download or clone this repository.
-2. Open `tableau/retail_sales_dashboard.twbx` in Tableau Desktop or Tableau Public.
+2. Open `tableau/retail_sales-2023.twbx` in Tableau Desktop or Tableau Public.
 3. Use the Product Category and Month filters to explore the dashboard.
 4. Review the SQL file in `sql/` to see the analysis queries.
 
