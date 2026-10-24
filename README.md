@@ -101,16 +101,15 @@ Customers aged 46–55 contributed the most revenue.
 ## Repository structure
 
 ```text
-retail-sales-tableau-analysis/
+retail-sales-tableau-analysis1/
 ├── README.md
-├── data/
-│   └── retail_sales_dataset.csv
 ├── images/
 │   └── retail-sales-dashboard.png
+├── retail_sales.sqlproj
 ├── sql/
 │   └── retail_sales_analysis.sql
 └── tableau/
-    └── retail_sales_dashboard.twbx
+    └── retail_sales-2023.twbx
 ```
 
 ## How to use this project
